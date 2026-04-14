@@ -31,4 +31,22 @@ Aplicacion web desarrollada con Java, Servlets y JSP que implementa un CRUD de p
 
 ## Capturas
 
-Coloca aquí las evidencias pedidas por la actividad dentro de la carpeta `capturas/`.
+### 1. Lista inicial
+
+![Ejecucion](https://raw.githubusercontent.com/Danna-Cardenas/Cardenas_post1-u6/main/Capturas/Captura1.png)
+
+### 2. Formulario nuevo producto
+
+![Ejecucion](https://raw.githubusercontent.com/Danna-Cardenas/Cardenas_post1-u6/main/Capturas/Captura2.png)
+
+### 3. Producto guardado
+
+![Ejecucion](https://raw.githubusercontent.com/Danna-Cardenas/Cardenas_post1-u6/main/Capturas/Captura3.png)
+
+### 4. Edicion de producto
+
+![Ejecucion](https://raw.githubusercontent.com/Danna-Cardenas/Cardenas_post1-u6/main/Capturas/Captura4.png)
+
+### 5. Flujo final y consola
+
+![Ejecucion](https://raw.githubusercontent.com/Danna-Cardenas/Cardenas_post1-u6/main/Capturas/Captura5.png)
