@@ -1,0 +1,11 @@
+﻿# Build outputs
+target/
+
+# Local environments
+.venv/
+
+# Upgrade artifacts
+.github/java-upgrade/
+
+# Local evidence not to publish
+U6_PostContenido_1 (3).pdf
